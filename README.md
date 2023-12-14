@@ -1,4 +1,4 @@
-# HassanRizwan_BEE12C_ImageColorization
+# HassanRizwan_BEE12C_AppleTreeDiseaseDetection
 
 # Group Members
 
